@@ -1,3 +1,7 @@
 # Instagram Reels — новая коллекция рубашек
 
-Готовый вертикальный ролик MP4 (31,8 с). Для скачивания откройте `shirts_new_collection_reels.mp4` и нажмите Download raw file.
+Видео 31,8 секунды в формате MP4, совместимом с iPhone.
+
+[Смотреть и скачать видео](https://github.com/san1kzak/Wee/blob/main/shirts_new_collection_reels_iphone.mp4)
+
+В Safari на странице файла нажмите Download raw file. Если видео открылось, нажмите «Поделиться» → «Сохранить в Файлы» или «Сохранить видео».
